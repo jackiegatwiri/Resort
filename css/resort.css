@@ -1,0 +1,15 @@
+h1 {
+  color: blue;
+  font-style: italic;
+  text-align: center;
+}
+h2 {
+  color: pink;
+  font-style: oblique;
+  font-family: fantasy;
+  text-align: center;
+}
+body {
+  font-family: monospace;
+  text-decoration: inherit;
+}
